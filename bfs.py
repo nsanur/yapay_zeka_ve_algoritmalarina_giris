@@ -1,4 +1,5 @@
 #yayilim oncelikli arama (bfs)
+
 grafik = {
         'A' : ['B', 'C'],
         'B' : ['D', 'E'],
@@ -6,8 +7,8 @@ grafik = {
         'D' : [],
         'E' : [],
         'F' : [],
-
 }
+
 ziyaret = []
 yigin = []
 
